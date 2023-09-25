@@ -1,11 +1,7 @@
-# GIG API REPO
-
-This repository holds the `backend api` code base for BREAKING BAD.
-
 ## Install
 - Clone the repository:
 ```
-git clone git@github.com:i-wizard/breaking-bad.git
+git clone git@github.com:emekanjoags/elastic-search.git
 ```
 
 - Check into the folder:
